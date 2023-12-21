@@ -1,0 +1,45 @@
+body{
+    color :cadetblue;
+    background-color: black;
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+header {
+    * {
+        text-align: center;
+
+    }
+    h1 {
+        margin-top: 5%;
+        color: red;
+        line-height: 0%;
+
+    }
+    h3 {
+        line-height: 100%;
+
+    }
+
+}
+
+time {
+    font-family: monospace;
+    color: #888;
+    font-size: 10pt;
+}
+
+footer {
+    text-align: bottom;
+
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+
+}
+img{
+    margin-top: 10%;
+}
